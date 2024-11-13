@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+neo4j
+transformers
+sentence-transformers
+requests
+PyMuPDF
+PyPDF2
+faiss-cpu
+torch
+python-multipart
